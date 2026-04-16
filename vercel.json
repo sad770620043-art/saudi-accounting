@@ -1,0 +1,1 @@
+{\n  "build": {\n    "commands": ["npm run build"],\n    "outputDirectory": "build"\n  },\n  "env": {\n    "REACT_APP_BACKEND_URL": "https://saudi-ledger.preview.emergentagent.com"\n  }\n}
