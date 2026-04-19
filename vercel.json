@@ -2,5 +2,8 @@
   "buildCommand": "npm run build",
   "outputDirectory": "build",
   "framework": "create-react-app",
-  "installCommand": "npm install --legacy-peer-deps"
+  "installCommand": "npm install --legacy-peer-deps",
+  "env": {
+    "REACT_APP_BACKEND_URL": "https://saudi-ledger.preview.emergentagent.com"
+  }
 }
